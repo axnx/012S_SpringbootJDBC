@@ -14,7 +14,7 @@ import org.springframework.stereotype.Component;
 
 @Component
 public class H2DB_Util implements CommandLineRunner{
-
+    //test
     //private Logger log = LoggerFactory.getLogger(CreateH2Database.class);
 	private Logger log = LoggerFactory.getLogger(getClass());
 
